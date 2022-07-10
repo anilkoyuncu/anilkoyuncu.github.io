@@ -1,7 +1,6 @@
 ---
 name: Mining software repositories towards understanding code change properties to guide program repair
 tools: [fix patterns, patches, program repair, debugging, empirical software engineering]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
 description:  Building an automated program repair-adapted representation of code that will be leveraged to associate the change intention to various artifacts such as bug reports, test cases.
 
 ---
