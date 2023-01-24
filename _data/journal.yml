@@ -1,3 +1,21 @@
+- title: 'Reliable Fix Patterns Inferred from Static Checkers for Automated Program Repair'
+  authors: >-
+    Kui Liu, Jingtang Zhang, Li Li, <b>Anil Koyuncu</b>, Dongsun Kim, Chunpeng Ge, Zhe Liu, Jacques Klein, Tegawendé F. Bissyandé.
+  revenue: 'Transactions on Software Engineering and Methodology, 2023. '
+  alias: TOSEM
+  doi: 'https://doi.acm.org/?doi=3579637'
+  link: 'https://arxiv.org/abs/2203.08912'
+  artifact: 'https://github.com/HaoyeTianCoder/Panther'
+  key: J7
+- title: 'The Best of Both Worlds: Combining Learned Embeddings with Engineered Features for Accurate Prediction of Correct Patches'
+  authors: >-
+    Haoye Tian, Kui Liu, Yinghua Li, Abdoul Kader Kaboré, <b>Anil Koyuncu</b>, Andrew Habib, Li Li, Junhao Wen, Jacques Klein, Tegawendé F Bissyandé.
+  revenue: 'Transactions on Software Engineering and Methodology, 2022. '
+  alias: TOSEM
+  doi: 'https://doi.acm.org/?doi=3576039'
+  link: 'https://arxiv.org/abs/2203.08912'
+  artifact: 'https://github.com/HaoyeTianCoder/Panther'
+  key: J6
 - title: 'IBIR: Bug Report driven Fault Injection'
   authors: >-
     Ahmed Khanfir, <b>Anil Koyuncu</b>, Mike Papadakis, Maxime Cordy, Tegawendé
