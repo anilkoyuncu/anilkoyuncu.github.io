@@ -9,7 +9,7 @@ permalink: /
 
 <img src="/img/icons/location-dot-solid.svg" style="height: 16px; margin: 0;display: inline;" >
 <a href="https://cs.bilkent.edu.tr" target="_blank">Department of Computer Engineering</a>, <a href="https://www.bilkent.edu.tr" target="_blank">Bilkent University</a>  
-<img src="/img/icons/envelope-solid.svg" width="16px" style="height: 16px; margin: 0;display: inline;"> anil.koyuncu at sabanciuniv.edu
+<img src="/img/icons/envelope-solid.svg" width="16px" style="height: 16px; margin: 0;display: inline;"> anil.koyuncu at cs.bilkent.edu.tr
 
 ***
 {% include social.html %}
