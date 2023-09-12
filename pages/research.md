@@ -8,7 +8,6 @@ project_tags: [bug reports, bug localization, fault localization, bug characteri
 
 ### **Research**
 My research interests lie in the general area of software engineering, with particular emphasis on automated program repair. My work draws on data mining, program analysis, and fault localization and aims to improve the automated program repair agenda towards boosting its adaption by practitioners.
-
 <br>
 
 <!-- #### Research Interests:
@@ -19,10 +18,11 @@ My research interests lie in the general area of software engineering, with part
 * Machine Learning and Natural Language Processing for Software Engineering
 * Empirical Software Engineering. -->
 
-<!-- #### Research Group
- <i class="fa-solid fa-screwdriver-wrench"></i> <a href="https://aprtsm.github.io/" target="_blank">Automated Program Repair and Tools for Software Maintenance</a> -->
+##### Research Group:
 
-#### Prospective Students:
+ <i class="fa-solid fa-screwdriver-wrench"></i> <a href="https://aprtsm.github.io/" target="_blank">Automated Program Repair and Tools for Software Maintenance</a>
+
+##### Prospective Students:
 
 <div class="card card-body">
 	<div class="alert alert-danger text-left">
