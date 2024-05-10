@@ -12,7 +12,7 @@
   revenue: 'Transactions on Software Engineering and Methodology, 2023. '
   alias: TOSEM
   doi: 'https://doi.acm.org/?doi=3576039'
-  link: '/papers/TOSEM2023-Panther.pdf'
+  link: /papers/TOSEM2023Panther.pdf
   artifact: 'https://github.com/HaoyeTianCoder/Panther'
   key: J6
 - title: 'IBIR: Bug Report driven Fault Injection'
@@ -22,7 +22,7 @@
   revenue: 'Transactions on Software Engineering and Methodology, 2023. '
   alias: TOSEM
   doi: 'https://dl.acm.org/doi/10.1145/3542946'
-  link: '/papers/TOSEM2023-iBir.pdf'
+  link: /papers/TOSEM2023iBir.pdf
   artifact: 'https://github.com/serval-uni-lu/IBIR'
   key: J5
 - title: DigBug—Pre/post-processing operator selection for accurate bug localization
