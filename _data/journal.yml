@@ -9,20 +9,20 @@
 - title: 'The Best of Both Worlds: Combining Learned Embeddings with Engineered Features for Accurate Prediction of Correct Patches'
   authors: >-
     Haoye Tian, Kui Liu, Yinghua Li, Abdoul Kader Kaboré, <b>Anil Koyuncu</b>, Andrew Habib, Li Li, Junhao Wen, Jacques Klein, Tegawendé F Bissyandé.
-  revenue: 'Transactions on Software Engineering and Methodology, 2022. '
+  revenue: 'Transactions on Software Engineering and Methodology, 2023. '
   alias: TOSEM
   doi: 'https://doi.acm.org/?doi=3576039'
-  link: 'https://arxiv.org/abs/2203.08912'
+  link: '/papers/TOSEM2023-Panther.pdf'
   artifact: 'https://github.com/HaoyeTianCoder/Panther'
   key: J6
 - title: 'IBIR: Bug Report driven Fault Injection'
   authors: >-
     Ahmed Khanfir, <b>Anil Koyuncu</b>, Mike Papadakis, Maxime Cordy, Tegawendé
     F Bissyandé, Jacques Klein, Yves Le Traon.
-  revenue: 'Transactions on Software Engineering and Methodology, 2022. '
+  revenue: 'Transactions on Software Engineering and Methodology, 2023. '
   alias: TOSEM
   doi: 'https://dl.acm.org/doi/10.1145/3542946'
-  link: 'https://arxiv.org/pdf/2012.06506'
+  link: '/papers/TOSEM2023-iBir.pdf'
   artifact: 'https://github.com/serval-uni-lu/IBIR'
   key: J5
 - title: DigBug—Pre/post-processing operator selection for accurate bug localization

@@ -8,7 +8,7 @@
     Proceedings of the 35th IEEE/ACM International Conference on Automated
     Software Engineering, Virtual (Melbourne, Australia), September 21-25, 2020. 
   alias: ASE
-  doi: 'https://doi.org/10.1145/3338906.3338935'
+  doi: 'https://doi.org/10.1145/3324884.3416532'
   link: /papers/ASE2020.pdf
   artifact: 'https://github.com/SerVal-DTF/DL4PatchCorrectness'
   slide: 'https://www.slideshare.net/darkrsw/ifixr-bug-report-driven-program-repair'
