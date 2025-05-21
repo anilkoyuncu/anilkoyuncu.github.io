@@ -1,30 +1,22 @@
 - title: >-
     LLMs and Prompting for Unit Test Generation: A Large-Scale Evaluation
   authors: >-
-    Wendkûuni C Ouédraogo, Kader Kaboré, Haoye Tian, Yewei Song, <b>Anil Koyuncu</b>, Jacques Klein,
-David Lo, Tegawendé F Bissyandé.
+    Wendkûuni C Ouédraogo, Kader Kaboré, Haoye Tian, Yewei Song, <b>Anil Koyuncu</b>, Jacques Klein, David Lo, Tegawendé F Bissyandé.
   revenue: >-
     ASE '24: Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering
   alias: ASE
   doi: 'https://doi.org/10.1145/3691620.3695330'
-  link: ''
-  artifact: ''
-  slide: ''
-  rate: ''
+  rate: '-.'
   key: C12
 - title: >-
     LSTM-AE for anomaly detection on multivariate telemetry data
   authors: >-
     Anes Abdennebi, Alp Tuncay, Cemal Yilmaz, <b>Anil Koyuncu</b>, Oktay Gungor.
   revenue: >-
-    IEEE/ACIS 21st International Conference on Software Engineering Research, Management and
-Applications 
+    IEEE/ACIS 21st International Conference on Software Engineering Research, Management and Applications 
   alias: SERA
   doi: 'https://doi.org/10.1109/SERA57763.2023.10197673'
-  link: ''
-  artifact: ''
-  slide: ''
-  rate: ''
+  rate: '-.'
   key: C11  
 - title: >-
     Evaluating Representation Learning of Code Changes for Predicting Patch

@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Dr. Anıl Koyuncu
 description         : >-
-                      May 24
+                      May 25
                       
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : SU-CS48000-21SP/     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
