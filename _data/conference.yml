@@ -5,7 +5,8 @@
   revenue: >-
     ASE '25: 40th IEEE/ACM International Conference on Automated Software Engineering
   alias: ASE
-  doi: 'https://www.arxiv.org/abs/2509.03093'
+  link: 'https://www.arxiv.org/abs/2509.03093'
+  artifact: 'https://doi.org/10.5281/zenodo.17008546'
   rate: '-.'
   key: C15
 - title: >-
@@ -15,7 +16,8 @@
   revenue: >-
     ICSME '25: 41st International Conference on Software Maintenance and Evolution
   alias: ICSME
-  doi: 'https://arxiv.org/abs/2507.10062'
+  link: 'https://arxiv.org/abs/2507.10062'
+  artifact: 'https://doi.org/10.5281/zenodo.15876539'
   rate: '-.'
   key: C14
 - title: >-
@@ -25,7 +27,8 @@
   revenue: >-
     ICSME '25: 41st International Conference on Software Maintenance and Evolution
   alias: ICSME
-  doi: 'https://arxiv.org/abs/2507.10054'
+  link: 'https://arxiv.org/abs/2507.10054'
+  artifact: 'https://doi.org/10.5281/zenodo.15877385'
   rate: '-.'
   key: C13
 - title: >-
