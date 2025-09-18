@@ -19,7 +19,7 @@
       <div class="paper-item" style="font-family: Optima, Candara, Calibri, Arial, sans-serif;">
         <div class="content">
          <li > 
-          <i class="fa-regular fa-angles-right"></i>
+          <!-- <i class="fa-regular fa-angles-right"></i> -->
           [{{ item.key }}]  <strong>{{ item.alias }}</strong> <u>{{ item.title }}</u><br>
           <div class="fa-ul">
           <small>{{ item.authors }} <br>
@@ -66,6 +66,9 @@
           {%- endif -%}
           {%- if item.artifact -%}
           <a href="{{ item.artifact }}" target="_blank" > <img src="/img/icons/github-logo.svg" style="height: 16px; margin: auto;"> </a> 
+          {%- endif -%}
+           {%- if item.zenodo -%}
+          <a href="{{ item.zenodo }}" target="_blank"> <img src="/img/icons/zenodo-icon-blue.svg" style="height: 16px; margin: auto;"> </a> 
           {%- endif -%}
           {%- if item.award -%}
           <br> {{ item.award }} <a href=""><img src="/img/icons/award-icon.gif" style="height: 16px; margin: auto;">  </a>
