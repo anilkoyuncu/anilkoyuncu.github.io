@@ -1,4 +1,34 @@
 - title: >-
+    Are We SOLID Yet? An Empirical Study on Prompting LLMs to Detect Design Principle Violations
+  authors: >-
+    Fatih Pehlivan, Arçin Ülkü Ergüzen, Sahand Moslemi Yengejeh, Mayasah Lami, <b>Anil Koyuncu</b>.
+  revenue: >-
+    ASE '25: 40th IEEE/ACM International Conference on Automated Software Engineering
+  alias: ASE
+  doi: 'https://www.arxiv.org/abs/2509.03093'
+  rate: '-.'
+  key: C15
+- title: >-
+    LLMShot: Reducing snapshot testing maintanence via LLMs
+  authors: >-
+    Ergün Batuhan Kaynak, Mayasah Lami, Sahand Moslemi Yengejeh, <b>Anil Koyuncu</b>.
+  revenue: >-
+    ICSME '25: 41st International Conference on Software Maintenance and Evolution
+  alias: ICSME
+  doi: 'https://arxiv.org/abs/2507.10062'
+  rate: '-.'
+  key: C14
+- title: >-
+    Explicit Vulnerability Generation with LLMs: An Investigation Beyond Adversarial Attacks
+  authors: >-
+    Emir Bosnak, Sahand Moslemi Yengejeh, Mayasah Lami, <b>Anil Koyuncu</b>.
+  revenue: >-
+    ICSME '25: 41st International Conference on Software Maintenance and Evolution
+  alias: ICSME
+  doi: 'https://arxiv.org/abs/2507.10054'
+  rate: '-.'
+  key: C13
+- title: >-
     LLMs and Prompting for Unit Test Generation: A Large-Scale Evaluation
   authors: >-
     Wendkûuni C Ouédraogo, Kader Kaboré, Haoye Tian, Yewei Song, <b>Anil Koyuncu</b>, Jacques Klein, David Lo, Tegawendé F Bissyandé.
