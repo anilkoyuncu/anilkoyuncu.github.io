@@ -6,7 +6,7 @@
     ASE '25: 40th IEEE/ACM International Conference on Automated Software Engineering
   alias: ASE
   link: 'https://www.arxiv.org/abs/2509.03093'
-  artifact: 'https://doi.org/10.5281/zenodo.17008546'
+  zenodo: 'https://doi.org/10.5281/zenodo.17008546'
   rate: '-.'
   key: C15
 - title: >-
@@ -17,7 +17,7 @@
     ICSME '25: 41st International Conference on Software Maintenance and Evolution
   alias: ICSME
   link: 'https://arxiv.org/abs/2507.10062'
-  artifact: 'https://doi.org/10.5281/zenodo.15876539'
+  zenodo: 'https://doi.org/10.5281/zenodo.15876539'
   rate: '-.'
   key: C14
 - title: >-
@@ -28,7 +28,7 @@
     ICSME '25: 41st International Conference on Software Maintenance and Evolution
   alias: ICSME
   link: 'https://arxiv.org/abs/2507.10054'
-  artifact: 'https://doi.org/10.5281/zenodo.15877385'
+  zenodo: 'https://doi.org/10.5281/zenodo.15877385'
   rate: '-.'
   key: C13
 - title: >-
