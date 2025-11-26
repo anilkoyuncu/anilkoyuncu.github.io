@@ -8,6 +8,18 @@
   link: 'https://www.arxiv.org/abs/2509.03093'
   zenodo: 'https://doi.org/10.5281/zenodo.17008546'
   rate: '-.'
+  key: C16
+- title: >-
+    Rethinking Cognitive Complexity for Unit Tests: Toward a Readability-Aware Metric Grounded in Developer Perception
+  authors: >-
+    Wendkûuni C. Ouédraogo, Yinghua Li, Xueqi Dang, Xin Zhou, <b>Anil Koyuncu</b>, Jacques Klein, David Lo, Tegawendé F. Bissyandé
+  revenue: >-
+    ICSME '25: 41st International Conference on Software Maintenance and Evolution
+  alias: ICSME
+  link: 'https://doi.org/10.1109/ICSME64153.2025.00082'
+  artifact: 'https://github.com/Cwendkuuni/CCTR'
+  doi: 'https://doi.org/10.1109/ICSME64153.2025.00082'  
+  rate: '-.'
   key: C15
 - title: >-
     LLMShot: Reducing snapshot testing maintanence via LLMs
@@ -18,6 +30,7 @@
   alias: ICSME
   link: 'https://arxiv.org/abs/2507.10062'
   zenodo: 'https://doi.org/10.5281/zenodo.15876539'
+  doi: 'https://doi.org/10.1109/ICSME64153.2025.00087'  
   rate: '-.'
   key: C14
 - title: >-
@@ -29,6 +42,7 @@
   alias: ICSME
   link: 'https://arxiv.org/abs/2507.10054'
   zenodo: 'https://doi.org/10.5281/zenodo.15877385'
+  doi: 'https://doi.org/10.1109/ICSME64153.2025.00086'  
   rate: '-.'
   key: C13
 - title: >-
