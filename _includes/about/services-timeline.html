@@ -1,29 +1,46 @@
-<div class="col mt-4">
-  <div class="timeline-body" >
-    {% for item in site.data.service %}
-      <div class="timeline-item" >
-        
-        <h5 class="toggle-button">{{ item.title }}</h5>
-        <div class="timeline-content collapsed" style="margin:20px">
-          
-          <!-- <a href="{{ item.link }}" target="_blank"> -->
+<div class="container-fluid mt-5 px-0">
 
-          <!-- <h5> <img src="{{ item.image }}" style="height: 36px; margin: auto;display: inline;" > {{ item.title }} </h5> -->
-          <!-- <h6 class="date">{{ item.from }}</h6> -->
-          {%- assign revenues-list = item.description -%}
-          {%- assign revenues = revenues-list | split: ',' -%}
-          {%- for word in revenues -%}
-            {% assign split_data = word | split: ';' %}
-            <a href="{{ split_data[1] }}" target="_blank">
-            <h6> {{ split_data[0] }} </h6>
-            <!-- <p>{{ item.description }}</p> -->
-            </a> <br>
-          {% endfor %}
-          <!-- </a> -->
+
+  {% for item in site.data.service %}
+  <div class="mb-4">
+    <div class="service-section-header d-flex align-items-center mb-4">
+      {% assign icon_class = "fas fa-briefcase" %}
+      {% if item.title contains "Journal" %}
+      {% assign icon_class = "fas fa-book-open" %}
+      {% elsif item.title contains "Program Committee" %}
+      {% assign icon_class = "fas fa-users" %}
+      {% elsif item.title contains "Subreviewer" %}
+      {% assign icon_class = "fas fa-search" %}
+      {% endif %}
+
+      <i class="{{ icon_class }} text-primary mr-3" style="font-size: 1.25rem;"></i>
+      <h3
+        style="font-size: 1.3rem; font-weight: 800; margin: 0; color: var(--text-dark); text-transform: uppercase; letter-spacing: -0.02em;">
+        {{ item.title }}
+      </h3>
+    </div>
+
+    <div class="id-grid-wrapper">
+      {%- assign item_list = item.description | split: ',' -%}
+      {%- for entry in item_list -%}
+      {% assign entry_parts = entry | split: ';' %}
+      {% assign name = entry_parts[0] | strip %}
+      {% assign url = entry_parts[1] | strip %}
+
+      <div class="id-glass-card p-3">
+        <div style="flex-grow: 1;">
+          {% if url != "" and url != nil %}
+          <a href="{{ url }}" target="_blank" class="id-grid-title d-block mb-1"
+            style="font-size: 0.9rem; text-decoration: none;">
+            {{ name }} <i class="fas fa-external-link-alt ml-1 text-muted" style="font-size: 0.6rem;"></i>
+          </a>
+          {% else %}
+          <span class="id-grid-title d-block mb-1" style="font-size: 0.9rem;">{{ name }}</span>
+          {% endif %}
         </div>
       </div>
-    {% endfor %}
+      {% endfor %}
+    </div>
   </div>
+  {% endfor %}
 </div>
-
-<script src="{{ '/assets/js/scripts.js' | relative_url }}"></script>

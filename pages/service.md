@@ -6,7 +6,6 @@ permalink: /service/
 ---
 
 ### **Service**
-
 {% include about/services-timeline.html %}
 <div class="row">
 

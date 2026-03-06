@@ -7,9 +7,10 @@ permalink: /
 
 ###### **Faculty Member (Assistant Prof.)** 
 
-<img src="/img/icons/location-dot-solid.svg" style="height: 16px; margin: 0;display: inline;" >
-<a href="https://cs.bilkent.edu.tr" target="_blank">Department of Computer Engineering</a>, <a href="https://www.bilkent.edu.tr" target="_blank">Bilkent University</a>  
-<img src="/img/icons/envelope-solid.svg" width="16px" style="height: 16px; margin: 0;display: inline;"> anil.koyuncu at cs.bilkent.edu.tr
+<i class="fas fa-map-marker-alt mr-2"></i> <a href="https://cs.bilkent.edu.tr" target="_blank">Department of Computer Engineering</a>, <a href="https://www.bilkent.edu.tr" target="_blank">Bilkent University</a>  
+<i class="fas fa-envelope mr-2"></i>anil.koyuncu at cs.bilkent.edu.tr
+
+<i class="fas fa-users mr-2"></i>Leading the <a href="https://aprtsm.github.io/" target="_blank" class="text-primary font-weight-bold">APR-TSM Research Group</a>
 
 ***
 {% include social.html %}
@@ -25,5 +26,5 @@ permalink: /
 
 ***
 
-{% include landing.html %}
+
 
