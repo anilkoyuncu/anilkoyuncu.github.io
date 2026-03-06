@@ -1,10 +1,11 @@
 ### Site Settings ###
 title               : Dr. Anıl Koyuncu
-description         : >-
-                      May 25
+description: >-
+  Researching Automated Program Repair, Mining Software Repositories, 
+  and Applied Machine Learning for Software Engineering.
                       
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : SU-CS48000-21SP/     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : anilkoyuncu/anilkoyuncu.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
@@ -26,14 +27,14 @@ nav_exclude:                                            # The following paths ar
 
 ## Author Info ###
 author:
-  name              : John Doe
+  name              : Dr. Anıl Koyuncu
 
   # behance           : your_username
 # dribbble          : your_username
   # email             : username@domain.com
   # facebook          : your_username
   googlescholar     : 6DMJ2dQAAAAJ
-  #orcid             : 0000-0001-6975-6752
+  orcid             : 0000-0001-6975-6752
   researchgate      : Anil-Koyuncu
   #orbilu            :
   dblp              : 202/8373
