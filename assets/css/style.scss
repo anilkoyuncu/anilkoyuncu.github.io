@@ -17,3 +17,18 @@ fa-orbilu {
     content: url("/img/icons/icon_dblp_bw.svg");
 
 }
+
+.timeline-content {
+    display: block;
+  }
+  
+.timeline-content.collapsed {
+display: none;
+}
+
+.timeline-item .toggle-button {
+    margin-left: 20px; // Adjust the value as needed
+    cursor: pointer; // Change cursor to pointer
+    text-decoration: underline; // Optional: Add underline to indicate interactivity
+
+  }
