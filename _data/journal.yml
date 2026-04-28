@@ -1,3 +1,11 @@
+- title: 'Prompt engineering in LLMs for automated unit test generation: A large-scale study'
+  authors: >-
+    <Wendkûuni C Ouédraogo, Abdoul Kader Kaboré, Yinghua Li, Haoye Tian, <b>Anil Koyuncu</b>, Jacques Klein, David Lo, Tegawendé F Bissyandé.
+  revenue: 'Empirical Software Engineering, 2026. '
+  alias: TOSEM
+  doi: 'https://doi.org/10.1007/s10664-026-10840-4'
+  link: 'https://doi.org/10.1007/s10664-026-10840-4'
+  key: J9
 - title: 'Exploring Fine-Grained Bug Report Categorization with Large Language Models and Prompt Engineering: An Empirical Study'
   authors: >-
     <b>Anil Koyuncu</b>.

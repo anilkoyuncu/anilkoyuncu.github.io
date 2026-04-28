@@ -1,4 +1,35 @@
 - title: >-
+    From Metrics to Models: Large Language Models as Human-Aligned Code Readability
+    Evaluators
+  authors: >-
+    W. Ouédraogo, Y . Li, X. Dang, P. Borsukiewicz, X. Zhou, <b>A. Koyuncu</b>, J. Klein, D. Lo, T. Bissyandé.
+  revenue: >-
+    2026 IEEE/ACM 48th International Conference on Software Engineering: Companion Proceedings
+  alias: ICSE
+  link: 'https://doi.org/10.1145/3774748.3795656'
+  rate: '-.'
+  key: C19
+- title: >-
+    Evaluating LLM-Based Test Refactoring with a Behavior-Preserving Composite Metric
+  authors: >-
+    W. Ouédraogo, Y . Li, X. Dang, P. Borsukiewicz, X. Zhou, <b>A. Koyuncu</b>, J. Klein, D. Lo, T. Bissyandé.
+  revenue: >-
+    2026 IEEE/ACM 48th International Conference on Software Engineering: Companion Proceedings
+  alias: ICSE
+  link: 'https://doi.org/10.1145/3774748.3795657'
+  rate: '-.'
+  key: C18
+- title: >-
+    Fixpad++: Automated Bug Fix Verification Using LLM Agents
+  authors: >-
+    Mustafa Özkan İr, Mehmet Dedeler, <b>Anıl Koyuncu</b>, Eray Tüzün.
+  revenue: >-
+    3rd ACM International Conference on AI-powered Software (AIware 2026)
+  alias: AIWare
+  link: 'https://openreview.net/forum?id=dT9pL7Q7k2'
+  rate: '-.'
+  key: C17
+- title: >-
     Are We SOLID Yet? An Empirical Study on Prompting LLMs to Detect Design Principle Violations
   authors: >-
     Fatih Pehlivan, Arçin Ülkü Ergüzen, Sahand Moslemi Yengejeh, Mayasah Lami, <b>Anil Koyuncu</b>.
